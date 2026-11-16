@@ -1,0 +1,6 @@
+{
+  "name": "PONG",
+  "description": "Classic minimalist 2D retro arcade Pong with VS Bot, reflex Training, and real-time online multiplayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
